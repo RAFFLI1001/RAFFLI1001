@@ -1,5 +1,5 @@
-##  Hello World! I'm Arten👋
 
+![Arten](img/github-header-banner.png)
 <!--
 **RAFFLI1001/RAFFLI1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Good Game](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXB4ZzFlYjlhN3QxcXRqcHM0MTAxdjR0cHRiZHE5cmM1ZGVzYnN4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LnKxP5wXfSOzudzbPO/giphy.gif)
+
+##### Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
