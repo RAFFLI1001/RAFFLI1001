@@ -18,17 +18,3 @@ Here are some ideas to get you started:
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,tailwind,bootstrap,figma,discord,&theme=light)](https://skillicons.dev)
 
-#### Play Games
-###
-
-<img src="https://raw.githubusercontent.com/RAFFLI1001/RAFFLI1001/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAFFLI1001/RAFFLI1001/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAFFLI1001/RAFFLI1001/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RAFFLI1001/RAFFLI1001/output/pacman-contribution-graph.svg">
-</picture>
-
-###
