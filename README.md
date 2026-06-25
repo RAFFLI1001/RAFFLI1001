@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,laravel,tailwind,bootstrap,figma,discord,linkedin,ps,rocket,vscode,windows,github,&theme=light)](https://skillicons.dev)
 
