@@ -7,7 +7,6 @@
 
 ---
 
-### 🏆 Pencapaian GitHub (Trophies)
 
 
 ---
