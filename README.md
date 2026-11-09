@@ -40,7 +40,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFFLI1001&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
----
 
-### 👾 Pac-Man / Snake Board
 
