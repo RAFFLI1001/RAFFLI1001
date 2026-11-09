@@ -3,25 +3,12 @@
   <img src="img/github-header-banner.png" alt="Header Banner" width="100%" />
 </p>
 
-<!-- ANIMASI TEKS MENGETIK -->
-<p align="center">
-  <a href="https://github.com/RAFFLI1001">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Raffli!+👋;Web+Developer+%26+Designer;Laravel+%7C+Tailwind+%7C+JavaScript;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-</p>
 
-<!-- VISITOR BADGE -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFFLI1001&label=Profile%20Views&color=00f0ff&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
 ### 🏆 Pencapaian GitHub (Trophies)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFFLI1001&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
 
 ---
 
@@ -61,6 +48,3 @@
 
 ### 👾 Pac-Man / Snake Board
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RAFFLI1001/RAFFLI1001/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
